@@ -2,9 +2,14 @@
 name = "telegraph"
 version = "0.1.0"
 edition = "2021"
+license="MIT"
+keywords = ["telegraph", "API"]
+readme = "README.md"
+categories = ["telgraph", "API"]
+homepage = "https://crates.io/crates/telegraph"
+repository = "https://github.com/HomelyGuy/telegraph"
+documentation = "https://docs.rs/telegraph"
 description = "implementation of API of telegra.ph"
-keys = ["telegraph", "API"]
-readme = "./README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
