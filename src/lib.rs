@@ -8,6 +8,8 @@ pub mod entity;
 pub mod methods;
 #[cfg(test)]
 pub(crate) mod entity_test;
+#[cfg(test)]
+pub(crate) mod methods_test;
 
 pub use entity::*;
 pub use methods::*;
