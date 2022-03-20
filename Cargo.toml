@@ -1,0 +1,17 @@
+[package]
+name = "telegraph"
+version = "0.1.0"
+edition = "2021"
+description = "implementation of API of telegra.ph"
+keys = ["telegraph", "API"]
+readme = "./README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.3.21"
+serde = { version="1.0.136", features=[ "derive" ] }
+
+[dev-dependencies]
+serde_json = "*"
+
