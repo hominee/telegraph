@@ -1,5 +1,5 @@
 ## Introduction
-A lightweight collections of api telegraph.
+A **lightweight** Rust implementaion of telegraph api.
 
 **Telegra.ph** is a minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click. Telegraph posts also get beautiful [Instant View](https://telegram.org/blog/instant-view) pages on Telegram.
 
