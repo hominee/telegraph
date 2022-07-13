@@ -1,3 +1,5 @@
+//! A lightweight collections of api telegraph.
+//!
 //! We support GET and POST HTTP methods. The response contains a JSON object, which always has a
 //! Boolean field ok. If ok equals true, the request was successful, and the result of the query
 //! can be found in the result field. In case of an unsuccessful request, ok equals false, and the
